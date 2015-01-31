@@ -20,3 +20,5 @@ var myVariable = null;
 console.log(myVariable); //null
 console.log(typeof myVariable); //object
 ```
+
+[Helpful Link](http://www.gibdon.com/2006/05/javascript-difference-between-null-and.html)
