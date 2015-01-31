@@ -1,4 +1,4 @@
-#What is the difference between `null` and `undefined` in JavaScript?
+#What is the difference between *null* and *undefined* in JavaScript?
 
 The `undefined` value is a primitive value used when a variable has not been assigned a value.
 
